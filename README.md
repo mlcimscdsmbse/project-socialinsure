@@ -17,13 +17,22 @@ and there you will find comprehensive explanations about these data, as well
 as ideas to analyse it from a causal perspective. The book is available
 online at https://theeffectbook.net
 
+## Deliverables
+
+You should write your analysis in an R Markdown or Python notebook, interwining
+text and code to facilitate the understanding of the analysis steps and their
+reproducibility. You should include the HTML output file of that notebook, along
+with all the files involved in the analysis. The HTML output should show at the
+top a front matter including the title of the project, the names of the authors
+and the date. Failing in any of these formal aspects will penalize the grade.
+
 ## Submission procedure
 
 This project has to be submitted using
 [GitHub Classroom](https://classroom.github.com). This
 means that you should have cloned the GitHub repo of this project
 from the organization account for MLCI in the corresponding academic
-year at https://github.com/mlciXXXX using the submission link
+year at https://github.com/MLCIXXXX using the submission link
 provided through Google Classroom.
 
 Once you have cloned this GitHub repo, then you can work on it in
